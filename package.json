@@ -1,0 +1,25 @@
+{
+  "name": "Player",
+  "version": "0.0.0",
+  "description": "web services",
+  "main": "server.js",
+  "dependencies": {
+    "http": "~0.0.0",
+    "util": "~0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaulrosenberg1/Player.git"
+  },
+  "author": "shaul rosenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaulrosenberg1/Player.git"
+  },
+  "homepage": "https://github.com/shaulrosenberg1/Player"
+}
